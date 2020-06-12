@@ -14,3 +14,7 @@ For example, the file 10-19-20s_706posts.xml contains 706 posts gathered from th
 Jupyter notebook to create Pandas DataFrame from the raw .xml file. An ER-diagram is also given.
 
 
+## GenerateXML
+
+Jupyter notebook to create .xml files from Wine Reviews dataset.  
+
